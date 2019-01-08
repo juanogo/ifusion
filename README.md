@@ -4,7 +4,7 @@ I was doing Medical Imaging for two years at the __Computer Vision Center of Bar
 
 ### Besides my [Master Tehesis](https://bit.ly/2QvXhwm), ifusion was one of the most challenging projects I led while at the CVC:
 
-__ifusion__ was a software solution for registration of intravascular and angiography images during cardiac catheterization due to stenosis. This software got sold to the company __Boston Scientific__  and I was leading the technological transfer process.
+__ifusion__ was a software solution for registration of intravascular and angiography images during cardiac catheterization due to stenosis. This software got sold to the company __Boston Scientific__  and I had to lead the technological transfer process.
 
 In short, I had to translate all the existing C++ code into a Matlab version to be delivered to the Boston Scientific. 
 
@@ -16,7 +16,7 @@ In short, I had to translate all the existing C++ code into a Matlab version to 
 
 ### Also, a video of my final Matlab-implementation can be watched here:
 
-https://www.youtube.com/watch?v=PYe86M9SbLg
+[watch it on youtube](https://www.youtube.com/watch?v=PYe86M9SbLg)
 
 ### Some screenshots:
 
