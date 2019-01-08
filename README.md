@@ -1,6 +1,6 @@
 # ifusion
 
-I was doing Medical Imaging for two years at the __Computer Vision Center of Barcelona, CVC__ (www.cvc.uab.es/), working side by side with __Dr. Petia Radeva__, a global leader in the field. 
+I was doing Medical Imaging for two years at the [__Computer Vision Center of Barcelona, CVC__](www.cvc.uab.es/), working side by side with __Dr. Petia Radeva__, a global leader in the field. 
 
 ### Besides my [Master Tehesis](https://bit.ly/2QvXhwm), ifusion was one of the most challenging projects I led while at the CVC:
 
