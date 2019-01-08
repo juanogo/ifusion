@@ -7,8 +7,8 @@ I was doing Medical Imaging for two years at the __Computer Vision Center of Bar
 iFusion was a software solution for registration of intravascular and angiography images during cardiac catheterization due to stenosis. This software got sold to the company __Boston Scientific__ by the __Computer Vision Center__ and I was leading the technological transfer.
 In short, I had to translate all the existing C++ code into a Matlab version to be delivered to the Boston Scientific. 
 
-I wrote a full description of the software, modules, function, tests, etc. in the PDF uploaded in this repository.
+## I wrote a full description of the software, modules, functions, tests, etc. in the PDF uploaded in this repository.
 
-Also, a video of my final Matlab-implementation can be watched here:
+## Also, a video of my final Matlab-implementation can be watched here:
 
-Some screenshots:
+## Some screenshots:
