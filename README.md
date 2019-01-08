@@ -16,7 +16,7 @@ In short, I had to translate all the existing C++ code into a Matlab version to 
 
 ### Also, a video of my final Matlab-implementation can be watched here:
 
-[watch it on youtube](https://www.youtube.com/watch?v=PYe86M9SbLg)
+[Watch it on youtube](https://www.youtube.com/watch?v=PYe86M9SbLg)
 
 ### Some screenshots:
 
